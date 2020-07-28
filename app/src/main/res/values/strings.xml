@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI計算機</string>
+    <string name="bmi">夏特稀BMI計算機</string>
+    <string name="count">計算</string>
+    <string name="unCount">尚未計算</string>
+    <string name="result">結果:</string>
+</resources>

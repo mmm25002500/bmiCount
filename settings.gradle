@@ -1,0 +1,3 @@
+include ':myconstraubtkayiyt01'
+include ':app'
+rootProject.name = "bmi"
